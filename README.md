@@ -1,4 +1,7 @@
-# Microsoft Azure AI Fundamentals
+# Microsoft Azure AI Fundamentals - Projetos
+
+![image](https://github.com/GustavoBCode/Microsoft-Azure-AI-Fundamentals/assets/146696103/d2667def-7cfe-4df7-b155-83b4e1f0d9be)
+
 
 ## 1 - Contribuindo em um Projeto Open Source no GitHub
 

@@ -18,6 +18,7 @@ Este projeto tem como objetivo mostrar passo a passo de como utilizar uma plataf
 
 ## 4 - Análise de Sentimentos com Language Studio no Azure AI
 
+Este projeto aborda a implementação de funcionalidades de análise de fala em tempo real, além de análise de sentimentos e opiniões.
 
 ## 5 - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 

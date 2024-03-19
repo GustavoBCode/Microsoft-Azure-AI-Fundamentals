@@ -25,3 +25,5 @@ Este projeto aborda a implementação de funcionalidades de análise de fala em 
 Neste projeto, mergulhamos na tecnologia do Azure Cognitive Search, uma ferramenta inteligente que revoluciona a forma como buscamos e analisamos dados. Ao longo de algumas etapas simples e práticas, os participantes aprendem desde a configuração inicial até a execução de consultas avançadas. Com isso, eles ganham habilidades valiosas para explorar conjuntos de dados de maneira eficiente e inteligente. No final, estarão prontos para aplicar essas habilidades em uma ampla gama de contextos, desde análises básicas até soluções de pesquisa personalizadas e sofisticadas.
 
 ## 6 -  Explorando os Recursos de IA Generativa com Copilot e OpenAI
+
+Este projeto demonstra o uso de ferramentas multifuncionais potencializadas pelo Microsoft Copilot, oferecendo soluções eficazes para simplificar as atividades diárias. Através do uso do prompt de comando, é possível gerar respostas, imagens e linhas de código de forma ágil e eficiente, ampliando ainda mais suas possibilidades.
